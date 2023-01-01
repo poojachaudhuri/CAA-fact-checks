@@ -23,6 +23,15 @@ Each organization data is in two notebooks - one for the story links and one for
 ### Combining and plotting
 
 The data was then combined to a single dataframe to analyze the number of stories related to CAA protests published by each organization.
-The absolute numbers and the normalized data was plotted on ggplot2. 
+Absolute numbers and the normalized data were both plotted on ggplot2. 
+
+The analysis showed that most Facebook fact-checking partners had scanty coverage of disinformation related to the protests. 
+
+### Limitations
+
+The analysis is only a part of a larger story about nature of fact-checks during CAA protests. It does not give details about whether the most
+viral or dangerous disinformation was fact-checked by an organization. The number of stories only depicts a part of the picture.
+
+
 
 
