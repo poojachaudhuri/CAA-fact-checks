@@ -1,0 +1,22 @@
+datetime,organization,count,fb_partner,datetime_str,yearmonth_str
+2019-12-31,Alt News,50,Not Partner,2019-12-31,2019-12
+2019-12-31,Boomlive,14,Facebook Partner,2019-12-31,2019-12
+2019-12-31,The Quint,13,Facebook Partner,2019-12-31,2019-12
+2019-12-31,India Today,6,Facebook Partner,2019-12-31,2019-12
+2019-12-31,Vishvas News,5,Facebook Partner,2019-12-31,2019-12
+2019-12-31,AFP,1,Facebook Partner,2019-12-31,2019-12
+2020-01-31,Alt News,48,Not Partner,2020-01-31,2020-01
+2020-01-31,Boomlive,14,Facebook Partner,2020-01-31,2020-01
+2020-01-31,The Quint,13,Facebook Partner,2020-01-31,2020-01
+2020-01-31,India Today,5,Facebook Partner,2020-01-31,2020-01
+2020-01-31,Vishvas News,2,Facebook Partner,2020-01-31,2020-01
+2020-02-29,Alt News,34,Not Partner,2020-02-29,2020-02
+2020-02-29,Boomlive,12,Facebook Partner,2020-02-29,2020-02
+2020-02-29,The Quint,7,Facebook Partner,2020-02-29,2020-02
+2020-02-29,India Today,5,Facebook Partner,2020-02-29,2020-02
+2020-02-29,Vishvas News,1,Facebook Partner,2020-02-29,2020-02
+2020-03-31,Alt News,16,Not Partner,2020-03-31,2020-03
+2020-03-31,The Quint,6,Facebook Partner,2020-03-31,2020-03
+2020-03-31,Boomlive,4,Facebook Partner,2020-03-31,2020-03
+2020-03-31,India Today,3,Facebook Partner,2020-03-31,2020-03
+2020-03-31,AFP,2,Facebook Partner,2020-03-31,2020-03
