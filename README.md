@@ -29,8 +29,8 @@ The analysis showed that most Facebook fact-checking partners had scanty coverag
 
 ### Limitations
 
-The analysis is only a part of a larger story about nature of fact-checks during CAA protests. It does not give details about whether the most
-viral or dangerous disinformation was fact-checked by an organization. The number of stories only depicts a part of the picture.
+The analysis is only a part of a larger story about the nature of fact-checks during CAA protests. It does not give details about whether the most
+viral or most dangerous disinformation was fact-checked by an organization. The number of stories only depicts a part of the picture.
 
 
 
