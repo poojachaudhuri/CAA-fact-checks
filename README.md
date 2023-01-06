@@ -18,7 +18,7 @@ Each of the links were then scraped to extract the article headlines, date of pu
 ### Cleaning
 
 The data was cleaned on pandas. 
-Each organization data is in two notebooks - one for the story links and one for cleaing the data from the links. 
+Each organization data is in two notebooks - one for the story links and one for cleaing the data derived from the links. 
 
 ### Combining and plotting
 
