@@ -1,4 +1,3 @@
-# CAA fact-checks
 This project contains fact-check reports related to CAA protests published by six leading fact-checking organizations in India.
 Five among them are Facebook partners and the remaining one is Alt News, an independent organization. 
 Fact-check stories published between December 2019 to March 2020 were scraped for the project. 
